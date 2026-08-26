@@ -30,7 +30,7 @@ The analysis is implemented in a single Jupyter Notebook (`india_ev_sales_analys
 
 * **Micro-Mobility Dominance:** 2-Wheelers and 3-Wheelers represent over **95% of total cumulative EV registrations**. High-speed passenger cars (4-Wheelers) and public transit buses remain in early adoption stages.
 * **Geographic Pareto Concentration:** The top 10 states drive approximately **80% of all national EV volume**, led by Uttar Pradesh, Maharashtra, Karnataka, and Delhi.
-* **Regional Dichotomy:** Northern and Eastern states (e.g., Uttar Pradesh, Bihar, Assam) are heavily driven by commercial 3-Wheeler E-Rickshaws, whereas Southern and Western states (e.g., Maharashtra, Karnataka, Tamil Nadu) are dominated by personal 2-Wheeler scooters.
+* **Regional Dichotomy:** Northern, Central, Eastern and North-Eastern states (e.g., Uttar Pradesh, Bihar, Uttarakhand, Assam, Madhya Pradesh) are heavily driven by commercial 3-Wheeler E-Rickshaws, whereas Southern and Western states (e.g., Maharashtra, Karnataka, Telangana, Rajasthan, Gujarat) are dominated by personal 2-Wheeler (scooters) and 4-Wheelers (cars).
 * **Commercial Freight Uptick:** Cargo 3-Wheelers and light commercial delivery fleets have seen rapid acceleration post-2021 due to favourable total cost of ownership (TCO) in urban logistics.
 
 ---
@@ -43,4 +43,4 @@ The analysis is implemented in a single Jupyter Notebook (`india_ev_sales_analys
    pip install numpy pandas matplotlib seaborn
    ```
 
-3. Open india_ev_sales_analysis.ipynb in Jupyter Notebook, JupyterLab, or Google Colab and run all cells sequentially.
+3. Open `india_ev_sales_analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab and run all cells sequentially.
