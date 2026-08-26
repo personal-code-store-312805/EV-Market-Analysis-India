@@ -17,7 +17,7 @@ The analysis is implemented in a single Jupyter Notebook (`india_ev_sales_analys
 1. **Environment Setup & Data Hygiene:** Verified structural integrity, zero missing values, and duplicate-free baseline data.
 2. **Data Transformation & Memory Optimisation:** Optimised DataFrame memory consumption by over 65% through schema casting (`datetime64`, `int32`, `category`).
 3. **Feature Engineering:** Extracted temporal components (Quarters, Year-Month periods) and segmented vehicles into commercial, personal, shared, and freight categories.
-4. **Visualisation Suite (20 Visualisations):**
+4. **Visualisations:**
    * **Macro Trends:** National volume trajectories, complete-year Year-over-Year (YoY) growth rates, monthly seasonality heatmaps, and 3-month moving average trends.
    * **Segment Dynamics:** Category market share donut charts, 100% stacked area evolution, top 10 vehicle class breakdowns, and personal vs commercial fleet adoption.
    * **Geographic Hotspots:** Top 10 vs Bottom 10 state comparisons, multi-year state trajectories, state-category heatmaps, and Pareto concentration analysis (80/20 rule).
