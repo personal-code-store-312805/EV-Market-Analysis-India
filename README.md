@@ -1,6 +1,8 @@
 # Electric Vehicle Market Analysis in India (2014–2024)
 
 ## Introduction
+Welcome to my EDA project!
+
 This repository contains an exploratory data analysis (EDA) project evaluating the adoption, growth trajectories, and market dynamics of Electric Vehicles (EVs) across India over a decade (2014–2024). Analysing over 96,000 regional registration records, the project uncovers structural trends in micro-mobility, state-level penetration, and commercial fleet electrification.
 
 ---
