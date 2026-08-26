@@ -35,17 +35,12 @@ The analysis is implemented in a single Jupyter Notebook (`india_ev_sales_analys
 
 ---
 
-## Tech Stack
-* **Language:** Python 3
-* **Data Manipulation:** NumPy, Pandas
-* **Data Visualisation:** Matplotlib, Seaborn
-
----
-
 ## How to Run
 1. Clone or download this repository.
 2. Ensure you have the required libraries installed:
+
    ```bash
    pip install numpy pandas matplotlib seaborn
    ```
+
 3. Open india_ev_sales_analysis.ipynb in Jupyter Notebook, JupyterLab, or Google Colab and run all cells sequentially.
